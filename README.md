@@ -96,8 +96,7 @@ The main focus of this project is learning by building: improving code structure
 
 Launch vocabulary management, practice sessions and word import.
 
-![Import](screenshots/main-menu.png)
-
+![Main Menu](main-menu.png)
 
 ---
 
@@ -105,8 +104,7 @@ Launch vocabulary management, practice sessions and word import.
 
 Browse, search and manage stored vocabulary entries.
 
-![Vocabulary List](screenshots/vocabulary-list.png)
-
+![Vocabulary List](vocabulary-list.png)
 
 ---
 
@@ -114,17 +112,16 @@ Browse, search and manage stored vocabulary entries.
 
 Train in both directions or use a mixed mode.
 
-![Training](screenshots/training-modes.png)
-
+![Training](training-modes.png)
 
 ---
-
 
 ### Vocabulary Import
 
 Add words manually or import vocabulary from text/CSV files.
 
-![Import](screenshots/add-words.png)
+![Import](add-words.png)
+
 
 
 
